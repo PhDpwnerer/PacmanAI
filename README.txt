@@ -1,3 +1,4 @@
+Make sure you have TkInter installed.
 To test out the final Alpha Beta Pruning algorithm, run in your shell:
 python3.6 autograder.py -q q9
 
